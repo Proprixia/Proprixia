@@ -1,7 +1,7 @@
-cs student at UNC-Chapel Hill
-interested in transit, analytics, and cryptography
-naturally codes in Go and C. captively codes in JS and Python.
-internship experience at SAS and Plasma Games
+cs student at UNC-Chapel Hill \n
+interested in transit, analytics, and cryptography \n
+naturally codes in Go and C. captively codes in JS and Python. \n
+internship experience at SAS and Plasma Games \n
 
 my website: https://fruitofthefirehose.org/
 
