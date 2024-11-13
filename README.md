@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @Proprixia
-- 👀 I’m interested in decentralized networking, research, data science, and making code that improves society.
-- 🌱 I'm currently learning C and several important libraries for it, while also branching out into Rustlang.
-- 💞️ I’d love to collaborate with people who share any similar interests, just reach out!
+cs student at UNC-Chapel Hill
+interested in transit, analytics, and cryptography
+naturally codes in Go and C. captively codes in JS and Python.
+internship experience at SAS and Plasma Games
+
+my website: https://fruitofthefirehose.org/
+
+TRYING!
 
 <!---
 Proprixia/Proprixia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
